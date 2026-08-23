@@ -1,0 +1,6 @@
+{
+  "name": "DormWash",
+  "description": "Campus laundry booking and QR code physical verification system with misuse prevention and 5-minute arrival grace periods.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
